@@ -1,1 +1,1 @@
-使用next.js + koa 构建react的服务端渲染应用
+A project for practicing next.js and koa library
